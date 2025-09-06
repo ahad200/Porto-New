@@ -6,21 +6,21 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          name: 'Modernized Company Profile',
+          imageUrl: 'portfolio_v',
+          status: 'Redesigned, modernized and built PT.Powenet company profile, Implemented APIs based and interactive design elements to enhance user experience ',
+          tech: 'NextJs, Laravel 9',
+          github: 'https://github.com/ahad200/Project_PT_Powernet',
+          demo: 'https://powernet.co.id/'
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          name: 'Yokohama Rent',
+          imageUrl: 'Picture4',
+          status: 'A web application to help customers rent cars, make payments in real time, and detect the location of rented cars, etc',
+          tech: 'Laravel 9, Bootstrap',
+          github: 'null',
+          demo: 'null'
         },
         {
           id: 3,

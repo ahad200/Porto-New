@@ -24,6 +24,12 @@ export default {
         },
         {
           id: 4,
+          name: 'jquery',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/jquery.svg',
+          status: 'Advanced'
+        },
+        {
+          id: 4,
           name: 'Javascript',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
           status: 'Advance'
@@ -35,22 +41,16 @@ export default {
           status: 'Advance'
         },
         {
-          id: 6,
-          name: 'Codeigniter',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
-        },
-        {
           id: 7,
           name: 'VueJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
           status: 'Intermediate'
         },
         {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
+          id: 7,
+          name: 'Next.js',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/nextjs-13.svg',
+          status: 'Intermediate'
         },
         {
           id: 9,
@@ -78,26 +78,32 @@ export default {
         }
       ],
       tools: [
-        {
+                {
           id: 1,
+          name: 'Vscode',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg',
+          status: 'Framework'
+        },
+        {
+          id: 2,
           name: 'Git',
           imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
           status: 'Version Control'
         },
         {
-          id: 2,
+          id: 3,
           name: 'GitHub',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
           status: 'Git Hosting'
         },
         {
-          id: 3,
+          id: 4,
           name: 'NPM',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
           status: 'Package Manager'
         },
         {
-          id: 4,
+          id: 5,
           name: 'MySQL',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
           status: 'Database'
@@ -124,12 +130,12 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+            src="https://tse1.mm.bing.net/th/id/OIP.deBYIsA8b8Ut4apGgIiatgHaKc?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Muhammad Ahadiyas Hatumena. I'm a web developer from South Jakarta. I
+            have 1+ year of experience in Full-stack developer.
             I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
             has
             aesthetic value
