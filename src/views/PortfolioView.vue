@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Modernized Company Profile',
-          imageUrl: 'portfolio_v',
+          imageUrl: 'Powernet',
           status: 'Redesigned, modernized and built PT.Powenet company profile, Implemented APIs based and interactive design elements to enhance user experience ',
           tech: 'NextJs, Laravel 9',
           github: 'https://github.com/ahad200/Project_PT_Powernet',
