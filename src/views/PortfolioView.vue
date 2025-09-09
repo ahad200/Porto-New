@@ -13,6 +13,15 @@ export default {
           github: 'https://github.com/ahad200/Project_PT_Powernet',
           demo: 'https://powernet.co.id/'
         },
+                {
+          id: 1,
+          name: 'My Portfolio',
+          imageUrl: 'portku',
+          status: 'My new modernized personal website, I created this website to display my profile, skills and projects. base on new technology',
+          tech: 'VueJS 3, Tailwind',
+          github: 'https://github.com/ahad200/Porto-New-PaPK',
+          demo: 'https://ahadiyas.netlify.app'
+        },
         {
           id: 2,
           name: 'Yokohama Rent',
