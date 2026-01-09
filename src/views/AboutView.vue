@@ -135,7 +135,7 @@ export default {
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Hi everyone! My name is Muhammad Ahadiyas Hatumena. I'm a web developer from South Jakarta. I
-            have 1+ year of experience in Full-stack developer.
+            have an experiences in Full-stack developer and Software Engineering.
             I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
             has
             aesthetic value
