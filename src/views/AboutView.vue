@@ -107,6 +107,7 @@ export default {
           name: 'MySQL',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
           status: 'Database'
+          
         },
       ]
     };
