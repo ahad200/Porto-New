@@ -17,7 +17,7 @@ export default {
           id: 1,
           name: 'My Portfolio',
           imageUrl: 'portku',
-          status: 'My new modernized personal website, I created this website to display my profile, skills and projects. base on new technology',
+          status: 'My new modernized personal website, I created this website to display my profile, skills and projects. base on new technology and design trends of modern portfolios.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/ahad200/Porto-New-PaPK',
           demo: 'https://ahadiyas.netlify.app'
@@ -28,7 +28,7 @@ export default {
           imageUrl: 'Picture4',
           status: 'A web application to help customers rent cars, make payments in real time, and detect the location of rented cars, etc',
           tech: 'Laravel 9, Bootstrap',
-          github: 'null',
+          github: 'https://github.com/ahad200/rental_mobil-master',
           demo: 'null'
         },
         {
