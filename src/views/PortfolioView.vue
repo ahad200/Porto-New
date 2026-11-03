@@ -6,16 +6,25 @@ export default {
       items: [
         {
           id: 1,
+          name: 'Personal Photographer Website',
+          imageUrl: 'Firman',
+          status: 'A modernized client portfolio website, built with the latest web technologies with a focus on user experience and performance.',
+          tech: 'React 18, Vite 7, Nodejs 22, Tailwind 3',
+          github: 'https://github.com/ahad200/V2_Mangap7.com',
+          demo: 'https://mangap7.com/'
+        },
+        {
+          id: 2,
           name: 'Modernized Company Profile',
-          imageUrl: 'Powernet',
+          imageUrl: 'powernet',
           status: 'Redesigned, modernized and built PT.Powenet company profile, Implemented APIs based and interactive design elements to enhance user experience ',
           tech: 'NextJs, Laravel 9',
           github: 'https://github.com/ahad200/Project_PT_Powernet',
           demo: 'https://powernet.co.id/'
         },
                 {
-          id: 1,
-          name: 'My Portfolio',
+          id: 3,
+          name: 'Personal Portfolio',
           imageUrl: 'portku',
           status: 'My new modernized personal website, I created this website to display my profile, skills and projects. base on new technology and design trends of modern portfolios.',
           tech: 'VueJS 3, Tailwind',
@@ -23,7 +32,7 @@ export default {
           demo: 'https://ahadiyas.netlify.app'
         },
         {
-          id: 2,
+          id: 4,
           name: 'Yokohama Rent',
           imageUrl: 'Picture4',
           status: 'A web application to help customers rent cars, make payments in real time, and detect the location of rented cars, etc',
@@ -32,7 +41,7 @@ export default {
           demo: 'null'
         },
         {
-          id: 3,
+          id: 5,
           name: 'SISTEKDES',
           imageUrl: 'sistekdes',
           status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
@@ -41,7 +50,7 @@ export default {
           demo: 'null'
         },
         {
-          id: 4,
+          id: 6,
           name: 'Bumdesma',
           imageUrl: 'bumdesma',
           status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
@@ -50,7 +59,7 @@ export default {
           demo: 'null'
         },
         {
-          id: 5,
+          id: 7,
           name: 'SP2SE',
           imageUrl: 'sp2se',
           status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
