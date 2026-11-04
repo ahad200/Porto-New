@@ -11,7 +11,7 @@ export default {
           status: 'A modernized client portfolio website, built with the latest web technologies with a focus on user experience and performance.',
           tech: 'React 18, Vite 7, Nodejs 22, Tailwind 3',
           github: 'https://github.com/ahad200/V2_Mangap7.com',
-          demo: 'https://mangap7.com/'
+          demo: 'https://mangap7.com'
         },
         {
           id: 2,
