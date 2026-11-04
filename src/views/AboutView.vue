@@ -7,73 +7,73 @@ export default {
         {
           id: 1,
           name: 'HTML',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
+          imageUrl: '/img/tech/html.webp',
           status: 'Advanced'
         },
         {
           id: 2,
           name: 'CSS',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
+          imageUrl: '/img/tech/css.webp',
           status: 'Advanced'
         },
         {
           id: 3,
           name: 'PHP',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
+          imageUrl: '/img/tech/php.webp',
           status: 'Advanced'
         },
         {
           id: 4,
           name: 'jquery',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/jquery.svg',
+          imageUrl: '/img/tech/jquery.svg',
           status: 'Advanced'
         },
         {
           id: 4,
           name: 'Javascript',
-          imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
+          imageUrl: '/img/tech/javascript.webp',
           status: 'Advance'
         },
         {
           id: 5,
           name: 'Laravel',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
+          imageUrl: '/img/tech/laravel.svg',
           status: 'Advance'
         },
         {
           id: 7,
           name: 'VueJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
+          imageUrl: '/img/tech/vue.webp',
           status: 'Intermediate'
         },
         {
           id: 7,
           name: 'Next.js',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/nextjs-13.svg',
+          imageUrl: '/img/tech/nextjs.svg',
           status: 'Intermediate'
         },
         {
           id: 9,
           name: 'NodeJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
+          imageUrl: '/img/tech/nodejs.webp',
           status: 'Beginner'
         },
         {
           id: 10,
           name: 'Tailwind',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
+          imageUrl: '/img/tech/tailwind.svg',
           status: 'Advance'
         },
         {
           id: 11,
           name: 'Bootstrap',
-          imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
+          imageUrl: '/img/tech/bootstrap.webp',
           status: 'Intermediate'
         },
         {
           id: 12,
           name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          imageUrl: '/img/tech/react.webp',
           status: 'Beginner'
         }
       ],
@@ -81,31 +81,31 @@ export default {
                 {
           id: 1,
           name: 'Vscode',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg',
+          imageUrl: '/img/tech/vscode.svg',
           status: 'Framework'
         },
         {
           id: 2,
           name: 'Git',
-          imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+          imageUrl: '/img/tech/git.webp',
           status: 'Version Control'
         },
         {
           id: 3,
           name: 'GitHub',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+          imageUrl: '/img/tech/github.webp',
           status: 'Git Hosting'
         },
         {
           id: 4,
           name: 'NPM',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
+          imageUrl: '/img/tech/npm.webp',
           status: 'Package Manager'
         },
         {
           id: 5,
           name: 'MySQL',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
+          imageUrl: '/img/tech/mysql.webp',
           status: 'Database'
           
         },
@@ -131,7 +131,7 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://tse1.mm.bing.net/th/id/OIP.deBYIsA8b8Ut4apGgIiatgHaKc?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Foto">
+            src="/img/avatar.webp" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">

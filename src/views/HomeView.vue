@@ -24,8 +24,8 @@
           </path>
         </svg>Download Resume</button> -->
     </div>
-    <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://tse1.mm.bing.net/th/id/OIP.deBYIsA8b8Ut4apGgIiatgHaKc?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3">
+    <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async"
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="/img/avatar.webp">
     </div>
   </main>
 </template>
@@ -59,7 +59,6 @@ export default {
       let fullTxt = this.toRotate[i];
 
       this.txt = this.isDeleting ? fullTxt.substring(0, this.txt.length - 1) : fullTxt.substring(0, this.txt.length + 1);
-      typewriter.innerHTML = `<span class="wrap">${this.txt}</span>`;
 
       let that = this;
       let delta = 200 - Math.random() * 100;
